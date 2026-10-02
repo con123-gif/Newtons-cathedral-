@@ -1,5 +1,15 @@
-# Newton's Cathedral
+# Repository migrated
 
-A parameter-free derivation of fundamental physics from D=3 and icosahedral symmetry.
+This repository has been consolidated into the canonical Newton's Cathedral / URT workspace:
 
-Full code, predictions, and tests from the `newtons-cathedral` branch.
+**https://github.com/con123-gif/URT-Enhanced-v2.0**
+
+Primary branch: **`newtons-cathedral`**
+
+The unique historical files from this repository were preserved under:
+
+`archive/repository_snapshots/Newtons-cathedral-/`
+
+in the canonical repository before retirement.
+
+Do not use this repository as the current project state. The canonical state, closure ledger, research archive, engineering work and recovered conversation history now live in the consolidated repository.
